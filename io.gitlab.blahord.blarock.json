@@ -20,8 +20,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/blahord/blarock.git",
-                    "commit": "b1237e445318d879e9d8d3edf13988b951ce232d",
-                    "tag": "1.0.0"
+                    "commit": "499a78c3a3ae080b25bd7597a29dd24c47f1c00f",
+                    "tag": "1.1.0"
                 }
             ],
             "config-opts": [
